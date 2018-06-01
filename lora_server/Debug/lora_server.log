@@ -1,0 +1,34 @@
+﻿生成启动时间为 2018/6/1 14:19:08。
+     1>项目“C:\Users\xulingfeng\documents\visual studio 2010\Projects\lora_server\lora_server\lora_server.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\lora_server.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\lora_server.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lora_serverDlg.cpp
+         lora_serverDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xulingfeng\documents\visual studio 2010\Projects\lora_server\Debug\lora_server.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\lora_server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\xulingfeng\documents\visual studio 2010\Projects\lora_server\Debug\lora_server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xulingfeng\documents\visual studio 2010\Projects\lora_server\Debug\lora_server.lib" /MACHINE:X86 Debug\lora_server.res
+         Debug\lora_server.exe.embed.manifest.res
+         Debug\Gateway.obj
+         Debug\lora_server.obj
+         Debug\lora_serverDlg.obj
+         Debug\Mysocket.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\lora_server.exe.embed.manifest" /manifest Debug\lora_server.exe.intermediate.manifest "E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         lora_server.vcxproj -> C:\Users\xulingfeng\documents\visual studio 2010\Projects\lora_server\Debug\lora_server.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\lora_server.unsuccessfulbuild”。
+         正在对“Debug\lora_server.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\xulingfeng\documents\visual studio 2010\Projects\lora_server\lora_server\lora_server.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.51
